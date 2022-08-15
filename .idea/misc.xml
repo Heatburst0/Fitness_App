@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/bew_btn.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/bew_btn2.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/bg_btn.xml" value="0.184375" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/btn_background.xml" value="0.184375" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/btn_color.xml" value="0.184375" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/btn_color2.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/btn_pressed.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/btn_pressed2.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/btn_start_layout.xml" value="0.184375" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/btn_start_layout2.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/calculate_txt_bg.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/clr_btn_layout.xml" value="0.188" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/history_bg.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/item_exercise_bg.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/item_exercise_bg_completed.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/item_exercise_bg_selected.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/new_bg.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/progg_bar.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/progg_bar_grey.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/progg_bar_new.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/start_btn.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/toggle_btn.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/toggle_btn_text.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/toggle_btn_unpressed.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/activity_bmi.xml" value="0.2" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/activity_exercise.xml" value="0.176" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/activity_finish_screen.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/activity_history.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/activity_intent.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/content_activity_intent.xml" value="0.536" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/dialogue.xml" value="0.11775362318840579" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/dialogue2.xml" value="0.6" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/history_view.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/item_exercise.xml" value="0.2" />
+        <entry key="..\:/Users/krishna verma/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/sialogue.xml" value="0.146875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

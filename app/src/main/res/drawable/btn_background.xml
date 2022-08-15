@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/design_default_blue">
+    <item android:id="@android:id/mask">
+        <shape android:shape="oval"
+            >
+            <solid android:color="@color/white"/>
+            <corners android:radius="500dp"/>
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/btn_start_layout"/>
+</ripple>
